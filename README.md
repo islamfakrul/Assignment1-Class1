@@ -1,1 +1,1 @@
-# SSB-381---Assignment-1-Class-1
+# Assignment-1-Class-1
